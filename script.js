@@ -4,7 +4,7 @@
   const STORAGE_KEY = "todo-list-app:items";
 
   const form = document.getElementById("todo-form");
-  const input = document.getElementById("todo-input");
+  const input = document.getElementById("todo-inppppppput");
   const listEl = document.getElementById("todo-list");
   const countEl = document.getElementById("count");
   const toggleAllBtn = document.getElementById("toggle-all");
